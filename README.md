@@ -1,1 +1,3 @@
 # PhotoSite
+
+# Example of PhotoSite
